@@ -1,10 +1,10 @@
 # Project Wanderer
+Project for Intro to Artificial Intelligence that expands upon already existing game AI enemies from the Unity state machine tutorial.
 
-# What is this #
-A project for Intro to Artificial Intelligence that expands upon already existing game AI enemies.
-
-# Running the game #
-In order to play the game, find the zipped .exe file which is the current build of the game. Download and unzip the file to begin the demo.
+## Installation
+* Find the zipped .exe file
+* Download or clone this repository  
+* Run the included executable 
 
 # How to play #
 The point of any steath based game is to not be see, the same is true here. Since you have no weapons your only option is to stay out of the line of sight of the enemy. However, if you are seen then run and hide, eventually the guards will stop chasing you but they will remember where you were last spotted and created a new patrol route based on that location.
