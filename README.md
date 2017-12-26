@@ -1,4 +1,4 @@
-# Project Wanderer
+# Stealth Game
 Project for Intro to Artificial Intelligence that expands upon already existing game AI enemies from the Unity state machine tutorial.
 
 ## Installation
